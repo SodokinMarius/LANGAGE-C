@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1621717052 source:d:\coding\generation_aleatoire_50_entiers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1621723565 source:d:\coding\generation_aleatoire_50_entiers\operation_banque.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"operation_banque.h"
+
+1621720746 d:\coding\generation_aleatoire_50_entiers\operation_banque.h
+

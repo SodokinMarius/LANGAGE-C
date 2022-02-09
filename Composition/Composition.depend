@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1620992428 source:c:\users\yaoma\desktop\composition\main.c
+	<stdio.h>
+	<stdlib.h>
+	"convertion.h"
+
+1620992329 c:\users\yaoma\desktop\composition\convertion.h
+
+1620992569 source:c:\users\yaoma\desktop\composition\convertion.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"convertion.h"
+

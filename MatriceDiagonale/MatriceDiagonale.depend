@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1621548096 source:d:\coding\matricediagonale\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Fonctions.h"
+
+1621545342 d:\coding\matricediagonale\fonctions.h
+
+1621548106 source:d:\coding\matricediagonale\fonctionsmat.c
+	<stdio.h>
+	<stdlib.h>
+

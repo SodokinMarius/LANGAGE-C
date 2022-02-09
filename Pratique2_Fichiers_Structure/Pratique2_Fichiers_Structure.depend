@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1622240726 source:d:\coding\pratique2_fichiers_structure\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+
+1622235734 source:d:\coding\pratique2_fichiers_structure\fonctions_utiles.c
+	<stdio.h>
+	<stdlib.h>
+
+1622236456 d:\coding\pratique2_fichiers_structure\prototypes.h
+

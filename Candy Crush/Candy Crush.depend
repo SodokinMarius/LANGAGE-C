@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1621078524 source:d:\coding\candy crush\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Operation.h"
+
+1621078007 d:\coding\candy crush\operation.h
+
+1621078570 source:d:\coding\candy crush\operation.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Operation.h"
+

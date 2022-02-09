@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1622729356 source:d:\coding\exercices_lists2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes_lists.h"
+
+1622729387 d:\coding\exercices_lists2\prototypes_lists.h
+
+1622729350 source:d:\coding\exercices_lists2\fonctions_lists.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes_lists.h"
+

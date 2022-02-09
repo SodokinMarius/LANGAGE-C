@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1620558246 source:d:\coding\sodokin_yao\echange_de_devices\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Operation_convertion.h"
+
+1620526248 source:d:\coding\sodokin_yao\echange_de_devices\operation_convertion.c
+	<stdio.h>
+	<stdlib.h>
+	"Operation_convertion.h"
+
+1620558884 d:\coding\sodokin_yao\echange_de_devices\operation_convertion.h
+

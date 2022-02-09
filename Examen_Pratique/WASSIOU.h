@@ -1,0 +1,6 @@
+#ifndef WASSIOU_H_INCLUDED
+#define WASSIOU_H_INCLUDED
+
+
+
+#endif // WASSIOU_H_INCLUDED

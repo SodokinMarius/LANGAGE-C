@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1622703032 source:d:\coding\candy_crush_new\fonctions_utiles.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1622547607 source:d:\coding\candy_crush_new\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Fonctions_utiles.h"
+
+1622547585 d:\coding\candy_crush_new\fonctions_utiles.h
+

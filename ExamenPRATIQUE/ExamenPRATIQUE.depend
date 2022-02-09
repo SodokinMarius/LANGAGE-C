@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1620987650 source:c:\users\yaoma\desktop\examenpratique\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1620991571 source:c:\users\yaoma\desktop\examenpratique\langage.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Langage.h"
+
+1620988445 c:\users\yaoma\desktop\examenpratique\langage.h
+

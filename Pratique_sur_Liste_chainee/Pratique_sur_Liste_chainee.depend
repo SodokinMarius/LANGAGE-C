@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622601267 source:d:\coding\pratique_sur_liste_chainee\main.c
+	<stdio.h>
+	<stdlib.h>
+

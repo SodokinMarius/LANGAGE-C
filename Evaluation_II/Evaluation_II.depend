@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1620985905 source:c:\users\yaoma\desktop\evaluation_ii\operation.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1620985904 source:c:\users\yaoma\desktop\evaluation_ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operation.h"
+
+1620985571 c:\users\yaoma\desktop\evaluation_ii\operation.h
+

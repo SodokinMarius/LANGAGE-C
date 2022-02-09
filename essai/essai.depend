@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1620980645 source:c:\users\yaoma\desktop\essai\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1622844333 source:d:\coding\essai\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

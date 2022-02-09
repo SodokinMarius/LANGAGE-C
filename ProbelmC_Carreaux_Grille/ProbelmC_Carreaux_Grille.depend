@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1631641706 source:e:\coding\langage c\probelmc_carreaux_grille\main.c
+	<stdio.h>
+	<stdlib.h>
+

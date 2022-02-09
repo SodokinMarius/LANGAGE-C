@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1620925007 source:c:\users\yaoma\desktop\investissements\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Informations_investissement.h"
+
+1620943299 c:\users\yaoma\desktop\investissements\informations_investissement.h
+
+1620983640 source:c:\users\yaoma\desktop\investissements\operations_investissement.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"Informations_investissement.h"
+
+1620925007 source:c:\users\yaoma\desktop\sodokin_yao\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Informations_investissement.h"
+
+1620943299 c:\users\yaoma\desktop\sodokin_yao\informations_investissement.h
+
+1620984503 source:c:\users\yaoma\desktop\sodokin_yao\operations_investissement.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"Informations_investissement.h"
+

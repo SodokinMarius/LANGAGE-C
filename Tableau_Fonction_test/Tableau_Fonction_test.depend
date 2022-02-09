@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622336837 source:d:\coding\tableau_fonction_test\main.c
+	<stdio.h>
+	<stdlib.h>
+
